@@ -4,9 +4,12 @@
     margin: 0;
 }
 
+/* Webpage Background Color */
 body {
     background-color: #d9dcd6;
 }
+/*Webpage Background Color ENDS */
+
 
 /* Header */
 header {
@@ -41,7 +44,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-/* Header Ends*/
+/* Header ENDS */
 
 
 a {
@@ -53,6 +56,7 @@ p {
     font-size: 16px;
 }
 
+/* Meeting Picture under Header */
 .meetingPic {
     height: 800px;
     width: 100%;
@@ -61,6 +65,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* Meeting Picture ENDS */
+
 
 .float-left {
     float: left;
@@ -137,7 +143,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* Benefits Side Section Ends*/
+/* Benefits Side Section ENDS */
 
 
 .search-engine-optimization {
@@ -205,4 +211,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
-/* Footer Ends*/
+/* Footer ENDS */
