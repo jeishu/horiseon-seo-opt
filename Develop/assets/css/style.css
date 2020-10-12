@@ -65,7 +65,13 @@ figure {
     background-position: center;
 }
 
-/* Content */
+/* Section */
+section {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,12 +80,6 @@ figure {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-section {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 /* Marketing images */
