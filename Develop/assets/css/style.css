@@ -75,7 +75,7 @@ figure {
     margin-left: 25px;
 }
 
-.content {
+section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -101,8 +101,8 @@ figure {
     font-size: 36px;
 }
 
-/* Benefits Side Section*/
-.benefits {
+/* Benefits Side Section */
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -129,7 +129,7 @@ figure {
     max-width: 150px;
 }
 
-/*Footer Edits*/
+/* Footer */
 footer {
     padding: 30px;
     clear: both;
