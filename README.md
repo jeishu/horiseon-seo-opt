@@ -43,4 +43,4 @@ BSD 2-Clause License
 
 Copyright (c) [2020], [Jeremy Zhu]
 All rights reserved.
-
+* [LICENSE](./LICENSE.txt)
