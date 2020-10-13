@@ -39,5 +39,8 @@ jeishu // Jeremy Zhu
 
 ## License
 
-[https://choosealicense.com/](https://choosealicense.com/)
+BSD 2-Clause License
+
+Copyright (c) [2020], [Jeremy Zhu]
+All rights reserved.
 
