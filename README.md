@@ -10,9 +10,9 @@ This current project is to update/modify codebase of the website of Horiseon to 
 ## Table of Contents
 
 * [Criteria](#Criteria)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
+* [Usage](#Usage)
+* [Credits](#Credits)
+* [License](#License)
 
 
 ## Criteria
