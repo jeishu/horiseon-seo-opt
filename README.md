@@ -30,7 +30,7 @@ When we view the title element, we find a concise, desceiptive title.
 
 The CSS is only modified to help with the semantic changes in HTML. We want the website to look like this.
 
-![demo](./Assets/01-html-css-git-homework-demo.png)
+![demo](./Assets/images/01-html-css-git-homework-demo.png)
 
 
 ## Credits
