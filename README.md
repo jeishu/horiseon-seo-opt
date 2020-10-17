@@ -10,8 +10,10 @@ This current project is to update/modify codebase of the website of Horiseon to 
 ## Table of Contents
 
 * [Criteria](#Criteria)
+* [Resources](#Resources)
+* [Links](#Links)
 * [Usage](#Usage)
-* [Credits](#Credits)
+* [Contributing](#Contributing)
 * [License](#License)
 
 
@@ -26,6 +28,21 @@ When we view the title element, we find a concise, desceiptive title.
 
 ```
 
+## Resources
+```
+VSCode
+GitBash
+Github
+HTML
+CSS
+```
+
+## Links
+```
+Github Repo: https://github.com/jeishu/horiseon-seo-opt
+Github Pages: https://jeishu.github.io/horiseon-seo-opt/
+```
+
 ## Usage 
 
 The CSS is only modified to help with the semantic changes in HTML. We want the website to look like this.
@@ -33,7 +50,7 @@ The CSS is only modified to help with the semantic changes in HTML. We want the 
 ![demo](./Assets/images/01-html-css-git-homework-demo.png)
 
 
-## Credits
+## Contributing
 
 jeishu // Jeremy Zhu
 
